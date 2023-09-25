@@ -1,0 +1,12 @@
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Resturant.Breakfast.resources
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Resturant.Lunch.resources
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Resturant.Main.resources
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\wresl\Documents\SCTCC\Fall 2023\CMSC 2203\Activities\FullMenu\Resturant\Resturant\obj\Debug\Resturant.pdb
